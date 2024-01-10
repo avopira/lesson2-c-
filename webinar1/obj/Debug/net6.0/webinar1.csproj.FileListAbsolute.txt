@@ -1,0 +1,15 @@
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\bin\Debug\net6.0\webinar1.exe
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\bin\Debug\net6.0\webinar1.deps.json
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\bin\Debug\net6.0\webinar1.runtimeconfig.json
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\bin\Debug\net6.0\webinar1.dll
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\bin\Debug\net6.0\webinar1.pdb
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\obj\Debug\net6.0\webinar1.csproj.AssemblyReference.cache
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\obj\Debug\net6.0\webinar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\obj\Debug\net6.0\webinar1.AssemblyInfoInputs.cache
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\obj\Debug\net6.0\webinar1.AssemblyInfo.cs
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\obj\Debug\net6.0\webinar1.csproj.CoreCompileInputs.cache
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\obj\Debug\net6.0\webinar1.dll
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\obj\Debug\net6.0\refint\webinar1.dll
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\obj\Debug\net6.0\webinar1.pdb
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\obj\Debug\net6.0\webinar1.genruntimeconfig.cache
+C:\Users\kabe1222\Desktop\lessons\C#\webinar1\obj\Debug\net6.0\ref\webinar1.dll
