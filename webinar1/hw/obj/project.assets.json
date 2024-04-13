@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson1\\hw\\hw.csproj",
+      "projectUniqueName": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\webinar1\\hw\\hw.csproj",
       "projectName": "hw",
-      "projectPath": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson1\\hw\\hw.csproj",
+      "projectPath": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\webinar1\\hw\\hw.csproj",
       "packagesPath": "C:\\Users\\kabe1222\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson1\\hw\\obj\\",
+      "outputPath": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\webinar1\\hw\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kabe1222\\AppData\\Roaming\\NuGet\\NuGet.Config"

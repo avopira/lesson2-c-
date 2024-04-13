@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson2\\task1\\task1.csproj": {}
+    "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson2\\Task1\\task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson2\\task1\\task1.csproj": {
+    "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson2\\Task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson2\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson2\\Task1\\task1.csproj",
         "projectName": "task1",
-        "projectPath": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson2\\task1\\task1.csproj",
+        "projectPath": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson2\\Task1\\task1.csproj",
         "packagesPath": "C:\\Users\\kabe1222\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson2\\task1\\obj\\",
+        "outputPath": "C:\\Users\\kabe1222\\Desktop\\lessons\\C#\\lesson2\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kabe1222\\AppData\\Roaming\\NuGet\\NuGet.Config"
